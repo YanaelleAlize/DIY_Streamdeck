@@ -1,0 +1,17 @@
+Liens projet autohotkey luamacros :
+
+http://xahlee.info/kbd/keyboard_as_programable_keypad.html
+https://www.youtube.com/watch?v=Arn8ExQ2Gjg&feature=emb_logo
+
+http://www.hidmacros.eu/forum/viewtopic.php?f=10&t=241#p794
+https://github.com/me2d13/luamacros
+
+https://github.com/TaranVH/2nd-keyboard
+
+https://wtp-web.com/blog/installing-and-using-luamacros-for-your-2nd-keyboard/
+
+https://github.com/TaranVH/2nd-keyboard/issues/57
+
+Other Solutions :
+https://www.orbiter-forum.com/threads/changing-keyboard-layout-multiple-keyboards.28229/
+http://www.oblita.com/interception.html
